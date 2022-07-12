@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roshan Saini</h1>
-<h3 align="center">A continuous follower of the Data science & analytics field and to acquire technical skills for analyzing data.</h3>
+<h3 align="center">A continuous follower of the Data science & analytics field.</h3>
 
 - 📫 How to reach me **roshansaini3255@gmail.com**
 
