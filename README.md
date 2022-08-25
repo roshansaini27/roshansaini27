@@ -4,7 +4,7 @@
 <h3 align="center">A continuous follower of the Data science & analytics field.</h3>
 
 - 📫 How to reach me **roshansaini3255@gmail.com**
-- Currently I am learning Tableau and make a project on it.
+- Currently I am learning Machine Learning and work on it.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
